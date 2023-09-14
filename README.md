@@ -1,13 +1,12 @@
 # sonaudx
-<code type=text>#dvformat through explicit audio channel
-class sob_audio_x(dict):
-  def why(this,*argument):
-    pass#es for acronym?
-
-  __doc__=""" The reason for needing a viewable
+ #dvformat through explicit audio channel<br>
+<li>class sob_audio_x(dict):
+<ul>  def why(this,*argument):</ul>
+<ul>   pass#es for acronym?</ul>
+<ul> <code>__doc__</code>=""" The reason for needing a viewable
 interface that is akin to an old videocard,
 with it's unnecessary scheme of wasted software
 loop, is for user's without kernel driver axs.
- ( andDroid'$. )
-          """</code>
+ ( andDroid'$. )</ul>
+          """</li>
           
